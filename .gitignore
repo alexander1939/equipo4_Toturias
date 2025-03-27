@@ -26,7 +26,6 @@ Homestead.yaml
 .docker/
 docker-compose.override.yml
 
-
 # Laravel Caches
 /storage/framework/cache/*
 /storage/framework/sessions/*
