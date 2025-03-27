@@ -67,3 +67,21 @@ code . -r
 ```
 
 
+
+
+pasos para instalar paquetes 
+  ```bash
+composer show laravel/sail
+
+composer install
+
+composer require laravel/sail --dev
+
+php artisan sail:install
+
+sudo apt install php-xml php-dom
+
+php artisan sail:install
+
+
+```
