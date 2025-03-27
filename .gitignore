@@ -1,0 +1,37 @@
+# Laravel & PHP
+/.phpunit.cache
+.phpunit.result.cache
+/storage/*.key
+/storage/pail
+/vendor
+.env
+.env.backup
+.env.production
+/.idea
+/.vscode
+/.nova
+/.zed
+Homestead.json
+Homestead.yaml
+
+# Node
+/node_modules
+/npm-debug.log
+/yarn-error.log
+/public/build
+/public/hot
+/public/storage
+
+# Docker & Composer
+.docker/
+docker-compose.override.yml
+
+
+# Laravel Caches
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# Auth and IDE
+/auth.json
+/phpactor.json
